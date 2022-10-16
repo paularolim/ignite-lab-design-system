@@ -12,6 +12,7 @@ module.exports = {
         "2xlg": 32,
       },
       colors: {
+        transparent: "transparent",
         "gray-1000": "#000000",
         "gray-900": "#121214",
         "gray-800": "#202024",
